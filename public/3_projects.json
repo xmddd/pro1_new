@@ -1,0 +1,514 @@
+{
+    "0000262": {
+        "id": "0000262",
+        "title": "U.S. - Europe International Workshop:  Study of Genes, Brain, and Behavior with Honey Bees;  Bellagio, Italy",
+        "abstract": "0000262<br/>Robinson<br/><br/>This one-year award will support US participation in an international workshop, New Approaches to the Study of Genes, Brain, and Behavior with Honey Bees, to take place in Bellagio, Italy, on June 26-30, 2000.  Gene Robinson of the University of Illinois, and Alison Mercer, University of Otago, New Zealand, will organize the workshop.  The workshop involves US researchers' participation in a forum for a multidisciplinary group of researchers from the US, Europe, and Asia to develop opportunities for future collaboration on emerging technologies in neuroscience and genomics, enhancing the value of the honey bee as a model for integrated studies of behavior, neurobiology, and genetics. The focus of the meeting will be on studies of behavior that demonstrate, at the molecular level, the influences of genes, the environment, and their interaction. The goal of these studies is to explain the function and evolution of behavioral mechanisms that integrate the activity of individuals in a society, neural and neuroendocrine mechanisms that regulate behavior within the brain of the individual, and the genes that encode these brain mechanisms and thereby influence social behavior.<br/>",
+        "similar": [
+            65800,
+            66535,
+            58428
+        ],
+        "weight": [
+            0.1484203189611435,
+            0.17593106627464294,
+            0.6756486892700195
+        ],
+        "person": 19344
+    },
+    "0000433": {
+        "id": "0000433",
+        "title": "Experimental Partnership - Meridian: An Integrated Toolkit for Developing Interactive Distributed Applications",
+        "abstract": "EIA-0000433<br/>Betty H. Cheng<br/>Michigan State University<br/><br/>TITLE: Meridian: An Integrated Toolkit for Developing Interactive Distributed Applications<br/><br/>The proposed project involves the integration and validation of MERIDIAN, a collection of tools designed to help automate the development of IDAs.  Collectively, these tools will support diagram-based modeling, rigorous correctness analysis, software reuse, automated code generation, and software visualization.  Moreover, they will interact with one another through explicit design representations with formally defined semantics, enabling requirements to be traced from high-level models to low-level code.<br/><br/>Interactive distributed applications (IDAs) are those that involve direct interaction with users and whose processing and data components are distributed across a network.  Examples of IDAs include distributed data management systems, on-board driver/pilot navigation assistance systems, computer-supported cooperative work environments, distance education tools, and a variety of public safety systems.  The increasing interest in IDAs is fueled by several factors, including the advent of the World-Wide Web, the development of new middleware technologies, the introduction of scripting languages for graphical user interfaces, and the availability of new network services and protocols.<br/>",
+        "similar": [
+            13402,
+            37749,
+            33324
+        ],
+        "weight": [
+            0.29248812794685364,
+            0.30554425716400146,
+            0.4019675552845001
+        ],
+        "person": 5729
+    },
+    "0000651": {
+        "id": "0000651",
+        "title": "Presidential Awards for Excellence in Science, Mathematics, and Engineering Mentoring (PAESMEM)",
+        "abstract": "Mary L. Soffa<br/>University of Pittsburgh<br/><br/>Prof. Soffa has been highly successful in personally mentoring graduate students.  Of Prof. Soffa's sixteen graduated Ph.D. students, 50% are women.  Of her master's degree students, twenty-four (53%) are women, one is African American, and one is physically disabled.  She currently advises six doctoral students including two women.  Among her mentees is a Swedish female that was the first woman to receive a doctorate in computer science in Sweden.  Among her graduates, eleven have received prestigious pre-doctoral fellowships, two are full professors, three are associate professors, two are assistant professors, and one has received the NSF Young Investigator Award.  While serving as Dean of Graduate Studies, she implemented an innovative program to recruit underrepresented students that increased their number by 100% in four years. <br/><br/>",
+        "similar": [
+            14380,
+            58428,
+            33324
+        ],
+        "weight": [
+            0.2093833088874817,
+            0.31237083673477173,
+            0.4782458245754242
+        ],
+        "person": 38770
+    },
+    "0001090": {
+        "id": "0001090",
+        "title": "Investigations of Spatial and Temporal Variations in Strain Accumulation at the Sumatra Subduction Zone from Continuous GPS Measurements",
+        "abstract": "Bock <br/><br/>0001090 <br/><br/><br/><br/>The west coast of Sumatra and the Mentawai Islands offer a unique opportunity to study the process of strain accumulation and release along the Sumatran fault and subduction zone. Two giant historical earthquakes (1833 and 1861) suggest that infrequent very-large earthquakes dominate strain relief at the Sumatra subduction zone. The Sumatran fault has also been known to produce several Mw>7 earthquakes. GPS measurements collected from 1989 to 1993 revealed the spatial distribution of surface deformation, suggesting that the subduction interface is completely locked along the source region of the 1833 giant earthquake, but is only partially locked along the source region of the 1861 event. The data have also resulted in slip rate estimates for several segments of the Sumatran fault. <br/><br/><br/><br/>The investigators plan to conduct campaign-style surveys at approximately fifty of their established GPS monuments on Sumatra and the Mentawai islands. The new measurements from these sites will be analyzed in conjunction with their earlier data to obtain an updated, time-averaged velocity field for the Sumatra forearc and one segment of the Sumatran fault. With this analysis they hope to resolve two important questions about the Sumatran fault and subduction zone. First, they hope to determine whether the strain segmentation of the Sumatran subduction zone observed by the 1989-1994 measurements is a long-term signal, or if it was a transient effect caused by, for example, an aseismic slip event. The second question they hope to resolve is the slip rate for the Sumatran fault segment located about 1 S. Their current estimate of the slip rate there is 235 mm/yr, considerably larger than the 11 mm/yr estimated from stream offsets. <br/><br/><br/><br/>This is a collaborative proposal between UCSD's Scripps Institution of Oceanography (SIO) and the Indonesian National Coordination Agency for Surveying and Mapping (BAKOSURTANAL). <br/><br/><br/>",
+        "similar": [
+            44137,
+            66535,
+            53751
+        ],
+        "weight": [
+            0.04076126590371132,
+            0.04850205034017563,
+            0.9107366800308228
+        ],
+        "person": 63668
+    },
+    "0001332": {
+        "id": "0001332",
+        "title": "The Development of Stereotyping in Children's Judgments",
+        "abstract": "The goal of this Postdoctoral research fellowship research project is to investigate the development of  White children's use of the stereotype that Black Americans have low academic ability. Four experiments will be conducted to determine how the ability stereotype influences White children's perceptions and attributions of their Black peer's academic ability. Experiment 1 will test whether White children over 9 years of age judge a Black student as lower in ability than a White student with the same performance. Experiment 2 will determine whether White children of all ages may attribute Black students' academic failures and White students' academic successes to internal factors such as ability. It will also investigate whether White children over 9 years of age explain away Black students' academic successes and White students' academic failures by attributing these performances to external factors such as task difficulty or internal unstable factors such as effort. Experiments 3 and 4, were designed to determine whether White children over 9 years of age incorporate teacher feedback that suggests that a Black student has lower ability than a White student, but ignore teacher feedback that suggests that a Black student has higher ability than a White student.",
+        "similar": [
+            38918,
+            37749,
+            33324
+        ],
+        "weight": [
+            0.1560654491186142,
+            0.5862411856651306,
+            0.25769349932670593
+        ],
+        "person": 25445
+    },
+    "0001543": {
+        "id": "0001543",
+        "title": "Workshop: Human-Computer Interaction Research Consortium (2000)",
+        "abstract": "This funding is in support of an HCI research consortium (workshop) of promising doctoral students and distinguished research faculty.  The consortium will be held in conjunction with the ACM 2000 Conference on Human Factors in Computing Systems (CHI 2000), sponsored by the Association for Computing Machinery's Special Interest Group on Human Computer Interaction (SIGCHI).  The goals of the workshop include building a cohort group of new researchers who will then have a network of colleagues spread out across the world, guiding the work of new researchers by having experts in the research field give them advice, and making it possible for promising new entrants to the field to attend their research conference.  Student participants will make formal presentations of their work during the workshop, and will receive feedback from the faculty panel.  The feedback is geared to helping students understand and articulate how their work is positioned relative to other human-computer interaction research, whether their topics are adequately focused for thesis research projects, whether their methods are correctly chosen and applied, and whether their results are appropriately analyzed and presented.  Student participants will also present their work during the technical program of the CHI 2000 conference.  Extended abstracts of the students' work will be disseminated via publication in the CHI 2000 Extended Abstracts, which has wide print and electronic distribution.  Evaluation of the consortium will be conducted by ACM SIGCHI's conference management committee, and results of the evaluation will be available to the organizers of future consortia.<br/>",
+        "similar": [
+            55992,
+            37749,
+            65691
+        ],
+        "weight": [
+            0.29373642802238464,
+            0.2973168194293976,
+            0.4089467525482178
+        ],
+        "person": 37446
+    },
+    "0001773": {
+        "id": "0001773",
+        "title": "Administrative Regulation, Corporate Compliance, and the Transnational Practice of Law",
+        "abstract": "This study focuses on attorneys, both U.S. and non-U.S. nationals, engaged in the overseas practice of American securities law. The research has multiple objectives. One is to develop the study of regulatory lawyering across different types of regulatory agencies. A second objective is to generate new evidence of how American law is understood and practiced by attorney overseas. A third objective is to build on existing literature regarding process of corporate regulatory decisionmaking.<br/><br/>Data will be collected through approximately 150 interviews with attorneys in law firms, corporate general counsel, and corporate and government officials. These interviews will include a representative sample of both American and British lawyers practicing law in London. The research also includes a survey of securities practitioners and general counsel in both countries.",
+        "similar": [
+            61840,
+            37749,
+            38918
+        ],
+        "weight": [
+            0.0813600942492485,
+            0.8318380117416382,
+            0.08680184930562973
+        ],
+        "person": 44946
+    },
+    "0001998": {
+        "id": "0001998",
+        "title": "The Role of Knowledge Sharing in ERP Systems Implementation",
+        "abstract": "This Small Grant for Exploratory Research will examine how firms are able to effectively share knowledge across diverse functions and perspectives during enterprise resource planning (ERP) systems implementation. The primary objective of the study is to provide a theoretically grounded assessment of factors that enable firms to articulate and integrate the diversity of knowledge required for effective use of ERP. This includes factors that impact how existing knowledge is shared and how new knowledge is absorbed and transferred to become part of the firm's core knowledge competency. Following a case-study protocol, semi-structured interviews will be conducted with ERP team members in participating firms by telephone and on site.Computer-aided text analysis of the corrected transcripts will be used for within-site and between-site response comparisons, addressing seven propositions in the proposal. Among other variables and issues to be addressed is whether firm cultures that emphasizes group over individual achievement are more process/outcome oriented than deadline driven (Proposition 1). The interview protocol will include questions on organization structure, organization culture, process versus deadline orientation, the incorporation of new knowledge into core knowledge competencies, and tacit knowledge sharing.",
+        "similar": [
+            66638,
+            37749,
+            33324
+        ],
+        "weight": [
+            0.10306783765554428,
+            0.21196606755256653,
+            0.6849660873413086
+        ],
+        "person": 38669
+    },
+    "0002255": {
+        "id": "0002255",
+        "title": "National Symposium on the Great Plains Tornado Outbreak of May 3, 1999;  Oklahoma City, Oklahoma; April 30-May 3, 2000",
+        "abstract": "The extensive body of information collected during and after the May 3, 1999 outbreak of intense tornadoes affords an opportunity to study, for the first time in a single venue, all components of this significant natural disaster.  The goals of the Symposium are to document the current state of knowledge in dealing with severe local storms, identify the successes and failures on May 3 in specific areas, specify  challenges for the future, and determine how best to proceed as a unified community. The symposium is viewed as a mechanism for joining many traditionally separate communities and disciplines to provide a framework for their future interaction.",
+        "similar": [
+            61840,
+            38918,
+            37749
+        ],
+        "weight": [
+            0.1460145264863968,
+            0.2743857204914093,
+            0.5795996785163879
+        ],
+        "person": 32868
+    },
+    "0002552": {
+        "id": "0002552",
+        "title": "Collaborative Research:  PLUME - A Seismic Experiment to Image the Hawaiian Hotspot and Swell",
+        "abstract": "This project will deploy 64 wide-band ocean-bottom seismometers and ten portable broad-band seismic island stations in a 15-month-long investigation. The objectives are to: locate and image the plume conduit beneath the Hawaiian hotspot, image the roots of the Hawaiian swell over a sufficient area and with a sufficient resolution to distinguish among competing hypotheses for plume-lithosphere interaction, and relate the findings from the seismic imaging experiments to geodynamical and geochemical, models for mantle plumes.<br/><br/>",
+        "similar": [
+            65691,
+            30959,
+            55992
+        ],
+        "weight": [
+            0.03559769317507744,
+            0.12734803557395935,
+            0.8370542526245117
+        ],
+        "person": 28198
+    },
+    "0002870": {
+        "id": "0002870",
+        "title": "Symposium Support - Environmental Applications of Ionizing Radiation",
+        "abstract": "This grant provides support for a symposium entitled \"Environmental Applications of Ionizing Radiation\" for the purpose of synthesizing the existing knowledge on the application of ionizing radiation, gamma radiation and electron beams, to environmental treatment processes.  The symposiun will be held in conjunction with the 2000 International Chemical Congress of Pacific Basin Societies (Pacifichem 2000) in December 2000.  The Congress is sponsored jointly by the American Chemical Society, the Canadian Society for Chemistry, the Chemical Society of Japan, the New Zealand Institute of Chemistry and the Royal Australian Chemical Institute.  The symposium, a sequel to the successful symposium held during Pacifichem 1995, is being organized by Dr. William J. Cooper, University of North Carolina Wilmington.  A major output of the symposium will be the identification of research needs in the field of environmental applications of ionizing radiation.  This grant will support transportation, lodging and registration costs of invited participants from the United States.",
+        "similar": [
+            38918,
+            37749,
+            61840
+        ],
+        "weight": [
+            0.21067924797534943,
+            0.30758601427078247,
+            0.4817347526550293
+        ],
+        "person": 61714
+    },
+    "0003078": {
+        "id": "0003078",
+        "title": "Presidential Awards For Excellence In Science, Mathematics, & Engineering Mentoring",
+        "abstract": "For the past two decades, the University of Michigan (UM) WISE program has developed and implemented a host of programmatic activities to increase the number of women students who successfully pursue majors, advanced degrees and careers in science, mathematics and engineering (SME). Program services range from summer workshops that have served 1,300 middle school girls to a living-learning residential program that has been home for more than 1,000 first- and second- year undergraduate women; from a summer research program aimed at encouraging women to undertake graduate studies in science and engineering to a peer mentoring network for women graduate students.  The WISE program has made a significant impact in the recruitment and retention of women in SME fields.  For example, UM engineering undergraduate enrollment of women increased from 17% in 1980 to 32% in 1999.  In 1980, only 18% of the science and mathematics degrees awarded by UM went to women.  Today, 42% of the biochemistry majors are women; 46% of the cellular and molecular biology majors; 44% of the mathematics majors; and 45% of the geology majors.",
+        "similar": [
+            19913,
+            66638,
+            33324
+        ],
+        "weight": [
+            0.12852618098258972,
+            0.3344874680042267,
+            0.5369864106178284
+        ],
+        "person": 10203
+    },
+    "0003291": {
+        "id": "0003291",
+        "title": "Regional Implementation of Transferrable Integrated Design in Engineering Education",
+        "abstract": "Previous Abstract still valid",
+        "similar": [
+            3044,
+            55992,
+            21221
+        ],
+        "weight": [
+            0.07835578173398972,
+            0.31185752153396606,
+            0.6097866296768188
+        ],
+        "person": 14547
+    },
+    "0003520": {
+        "id": "0003520",
+        "title": "Collaborative Research:  Human Capital and Income Inequality",
+        "abstract": "In this research project we are interested in exploring the extent ex post inequalities between nations can arise when countries are ex ante identical. We study a model where imperfectly observable human capital investments are introduced in an otherwise standard neoclassical trade framework. Due to interaction between an informational externality and general equilibrium price effects, inequalities may arise in equilibrium when countries specialize in industries with different intensities in human capital. Citizens in the country specializing as a low human capital country are worse off than citizens in the country specializing as a high human capital country.  Because incentives to invest are lower in the low human capital country the situation is self-enforcing. Incentives are bad in the poor country two reasons: 1) with few investors someone who \"looks good\" is more likely an individual with low human capital that got a \"lucky draw\"; 2) the possibility to import goods intensive in human capital from the other country makes human capital less valuable compared to a situation where countries don't trade. In our research we will explore how these effects interact and the extent the model provides a rationale for specialization as well as provide a number of testable implications of the model.",
+        "similar": [
+            38918,
+            33324,
+            37749
+        ],
+        "weight": [
+            0.19617719948291779,
+            0.2389388531446457,
+            0.5648839473724365
+        ],
+        "person": 2689
+    },
+    "0003729": {
+        "id": "0003729",
+        "title": "U.S.-Japan Joint Seminar:  Symbioses Between Plant and Microorganizms for Sustainable Agriculture and Bioremediation",
+        "abstract": "0003729<br/>Sadowsky<br/><br/>This award supports the participation of American scientists in a U.S.-Japan seminar on symbioses between plant and microorganisms for sustainable agriculture and bioremediation, to be held in St. Paul, Minnesota from August 8-12, 2001.  The co-organizers are professors Michael Sadowsky of the University of Minnesota and Professor Yoshikatsu Murooka of Osaka University in Japan.   Biological nitrogen fixation continues to remain a top priority research area among scientists in the U.S. and abroad.  Nitrogen fixation has been targeted for emphasis due to its enormous importance for agriculture, and its ecological significance an sustainability.  This is especially true of symbiotic nitrogen fixation, the area to be covered by the seminar.  Plant growth and productivity is limited by nitrogen availability.  Research efforts directed towards improving the efficiency of symbiotic nitrogen fixation and to extend nitrogen fixation to other major food crops, including rice, wheat, and corn, will have a major impact on food production and population growth.  In recent years significant advances have been made in our basic understanding of biological nitrogen fixation, extending far beyond potential crop improvement.   The topic areas to be discussed will include information concerning both the plant host and their bacterial counterparts in the symbiotic nitrogen fixing-process.  Areas to be discussed in detail are enzymology, molecular genetics, plant cell biology, whole plant physiology, molecular microbial ecology, plant genetics, and genomics.  <br/><br/>The Seminar will consist of the following topics:  1)  genomics of both symbiotic partners in plant-microbe interactions;  2) molecular communications in plant-microbe interactions; and  3) applications of symbioses for sustainable agriculture and bioremediation.  Seminar organizers have made a special effort to involve younger researchers and graduate students as both participants and observers.  The exchange of ideas and data with Japanese experts in this field will enable U.S. participants to advance their own work, and will set the stage for future collaborative projects.  Dissemination of information on the seminar will be available on the World Wide Web.<br/>",
+        "similar": [
+            13342,
+            41811,
+            55992
+        ],
+        "weight": [
+            0.03327071666717529,
+            0.116719551384449,
+            0.8500096797943115
+        ],
+        "person": 40877
+    },
+    "0003983": {
+        "id": "0003983",
+        "title": "SenseLab: Integration of Multidisciplinary Sensory Data",
+        "abstract": "The overall goal of this Program Project, which embodies three research components, is to capitalize on previous work by this research group, involving SenseLab, to develop a set of neuroinformatics tools for supporting g the analysis of the functional organization of the olfactory system. The underlying rational is that, in the analysis of brain function, the generation of experimental data currently exceeds the means for archiving, analyzing, and integrating these data. The aim of project 1 is to understand the molecular sequences of the neural operations underlying olfactory perception; to this end the project will develop 4 databases. Project 2 will perform the necessary informatics research to support the other two projects and transfer the results to the programming core for practical applications. Project 3 will use data in the developed databases to construct and validate models of interacting neurons in the olfactory system. A main focus will be the understanding of the integrative properties on the mitral cells for the olfactory bulb. The databases and tools will enhance the understanding of neural mechanisms. They will be generalizable to other systems, to provide tools of wider use for integrating and searching neuroscientific data.<br/><br/>This research is funded in part by the National Science Foundation through its participation in the Human Brain Project, which is a Federal interagency research initiative, mandated by Congress as part of the \"Decade of the Brain\".",
+        "similar": [
+            66638,
+            52807,
+            33324
+        ],
+        "weight": [
+            0.10982424765825272,
+            0.22379589080810547,
+            0.6663798689842224
+        ],
+        "person": 20161
+    },
+    "0004254": {
+        "id": "0004254",
+        "title": "Out of the Box and into the Future:  A Dialogue Between Warfighters and Scientists on Far-Future Warfare Conference",
+        "abstract": "The Potomac Institute for Policy Studies will convene a conference in June 2000 to address two broad questions of importance to US Armed Forces:  what opportunities do advances in science offer to US forces and how do scientific advances change the type of threats to US forces.  The workshop will bring together representatives of the military, Congress, and scientific communities to present their views of changes pertinent to these questions.  Specific areas addressed at the workshop include military perspectives on maneuver and power projection and protection, firepower and precision targeting, air warfare, space warfare, information and networking, and intelligence and threat assessment.  Science perspectives on topics such as energy, human factors and neuroscience, nanoscale technologies, information and knowledge, biomedical advances, and advanced materials will also be provided.  The workshop organizers will prepare a report that summarizes the presentations and conclusions.",
+        "similar": [
+            66638,
+            37749,
+            33324
+        ],
+        "weight": [
+            0.2047397345304489,
+            0.23615793883800507,
+            0.5591022968292236
+        ],
+        "person": 24751
+    },
+    "0004499": {
+        "id": "0004499",
+        "title": "Construction of nanosyringe arrays for inserting bimolecular motor-powered nanodevices in living cells",
+        "abstract": "Abstract<br/>CTS-0004499<br/>C. Montemagno, Cornell University<br/><br/>As current technology permits the production of nanostructures smaller than typical cell dimensions, it has become possible to consider useful applications based on their non-destructive, orderly injection inside the cells.  In this fashion, cells could be repaired or functionally modified.  Of special interest would be the possibility to inject biomolecular motors which could energize the self-assembly of nanostructures inside living cells.  This could be accomplished by developing arrays of nanosyringes, each of which to deliver chosen structures on preplanned location and time.<br/><br/>The proposed effort will unfold in three steps:<br/>1. The fabrication of individual (\"standalone\") syringes with dimensions suitable for the injection of biomolecular rotary motors (e.g. flagella/ATP), capable of initiating a variety of modifications inside a cell.  Silicon wafers will be shaped by existing etching processes, yielding a 10nm diameter for the tips and a 1-micron diameter for the shaft.  Testing will be done with green fluorescence protein measurements.<br/>2. Since many useful cell modifications may involve a number of different injections, it is desirable to produce, as a first step, a set of self-aligned syringe arrays.  These will allow, given a line-up of cells, for simultaneous (and possibly different) injections, followed by other injection patterns if so desired.  Testing will be similar to the standalone case.<br/>3. The syringes concepts discussed above will be refined: a suspension mechanism will make possible both vertical and horizontal controlled displacements of the syringe.  The motion will be tracked with the help of an optical microscope.<br/>",
+        "similar": [
+            50010,
+            61502,
+            55992
+        ],
+        "weight": [
+            0.15514911711215973,
+            0.1728649139404297,
+            0.6719859838485718
+        ],
+        "person": 7560
+    },
+    "0060136": {
+        "id": "0060136",
+        "title": "STTR Phase I:  Highly Conductive Transparent Coating via Nanostructured Colloidal Sol-Gel Process",
+        "abstract": "This Small Business Technology Transfer (STTR) Phase I project  will support the current trend in developing nanophase materials.  This is spirited by an increasing need for nanometer-scale structures in a variety of applications.  It is clear that to achieve unique mechanical, physical, chemical, and biomedical properties, it is necessary to develop novel synthesis routes by which an entirely new nanostructure can be developed.  When the thickness of the metal down to nano-meters, the metal/dielectric multilayer coating exhibits metallic conductivity and dielectric transparency.  The periodic nature of the metal/dielectric lattice causes the light to propagate through the metal layers with extremely low loss.  The most unique feature of the metallic optical filter is the ability to have a single pass band and block all other radiation from static fields to soft X-rays.  This remarkable property is a result of the highly dispersive nature of metals.<br/><br/>This research program will develop a nano-engineered powder: bilayer coated nanopowder.  This powder composses three functionalities: highly transparent, highly conductive and a broad band radiation blocking from static fields to soft X-rays.  Development of such unique nanostructures would not only benefit the specific industrial applications, such as panel displace and anti-static/anti-reflection (ASAR) coating for lenses and CRT, but also the electronic industry, in general.<br/>",
+        "similar": [
+            6970,
+            46251,
+            55992
+        ],
+        "weight": [
+            0.04880933836102486,
+            0.05703430250287056,
+            0.8941563367843628
+        ],
+        "person": 64637
+    },
+    "0060511": {
+        "id": "0060511",
+        "title": "SBIR Phase I:  Minimal Sensor Signal Processing for Turbine Engine Health Monitoring",
+        "abstract": "This Small Business Innovation Research (SBIR) Phase I project will develop full waveform models and minimal sensor algorithms for the GDATS eddy current sensor (ECS), recently chosen for the EMD phase of the JSF development.  These algorithms will enable the practical real-time high performance health monitoring for turbine engines. Current processing techniques could require four or more sensors; however, these approaches do not make use of all the information made available by the ECS.  Using the full ECS signature, it is possible, in theory, to estimate integral vibration frequency, phase and amplitude using only a single sensor.  The reduction of the number of sensors required in each engine stage could potentially save millions of dollars.<br/><br/>There are no systems commercially available today for continuous health monitoring of aircraft gas turbine engines. The minimal sensor algorithms for continuous health monitoring have a large market.  The customers are USAF, USN and UK MOD.  Not only are such systems expected to be put on all new turbine engines such as for the JSF, but they will be retrofitted to the older aircraft as well.<br/>",
+        "similar": [
+            52807,
+            63033,
+            33324
+        ],
+        "weight": [
+            0.23274393379688263,
+            0.25707823038101196,
+            0.5101778507232666
+        ],
+        "person": 7779
+    },
+    "0070057": {
+        "id": "0070057",
+        "title": "Measurement of Microscopic Residual Stress Based on the Evolution of Surface Roughness During Shallow Chemical Etching",
+        "abstract": "A study will be made of stress-induced surface roughening caused by shallow chemical surface etching.  The results will be adapted to residual-stress measurement.  Previous work has shown that a simple spectrum analysis of nanometer-scale height changes in surface roughness caused by chemical etching permits determination of residual-stress components in solids. The principle of the analysis is that etching triggers stress-induced surface instability, resulting in a roughening of the surface controlled by the magnitude of the residual stresses and their direction. The experimental method is called \"surface roughness-evolution spectroscopy (SRES),\" and it measures residual stress components in solids with high spatial resolution. <br/><br/>The study will include modeling and experimental studies of surface roughening caused by various etchants in shallow chemical etching; this research is expected to provide fundamental understanding of the roughening process of stressed solid surfaces, while etched chemically. In addition, the understanding will be applied to measuring microscopic residual stresses in technologically important solid structures, e.g. manufacturing-induced residual stresses in optical fibers and intra-granular residual stresses in polycrystalline solids. <br/><br/>The resulting experimental method of skin test for residual-stress measurement is expected to make a significant impact in assessing manufacturability, reliability and residual life of solid components, which is essential in developing and maintaining proper infrastructures of civil and mechanical systems.<br/>",
+        "similar": [
+            6970,
+            13342,
+            55992
+        ],
+        "weight": [
+            0.0224052295088768,
+            0.0538310706615448,
+            0.9237637519836426
+        ],
+        "person": 34337
+    },
+    "0070409": {
+        "id": "0070409",
+        "title": "Intersection Theory for Non Intersectional Cycles",
+        "abstract": "In this project the investigator studies the intersection of two cycles whose dimensions do not add up to the dimension of the ambient space. In previous studies of intersection theory this is the case that has been ignored, since in general these cycles do not meet (thus we call them non-intersectional cycles). The space of cycles is a big puzzle to us, and this non-intersectional case is a piece that is still missing from the puzzle. So in order to have a complete picture of space of cycles, one should also include non-intersectional cycles. The first case studied by the investigator was the linking case where the dimensions of cycles add up to the number that is one less than the dimension of the ambient space. The fundamental approach is that such an intersection theory should not only include the cycles that meet, but also those that do not meet. To accomplish this the investigator borrows a tool-Archimedean height pairing from Arakelov geometry (or to be precise, the Arithmetic intersection theory developed by Gillet and Soule), which is only defined for pairs of linking cycles that do not meet. In this direction the investigator has made significant progress: (1) He obtained formulas for the leading term of the asymptotics of Archimedean height pairing. (2) Investigating Mazur's incidence structure, he constructed an incidence divisor on the Chow variety. (3) Based on above two results, he gave a proof of Clemens' conjecture: generic quintic three folds admit only finitely many smooth rational curves of each degree. The plan is to further the understanding of this intersection theory that includes general non-intersectional cycles. The project is concentrated in (1) the study of incidence divisors, (2) the relation between the incidence equivalence and the Abel-Jacobi equivalence, (3) the application to a study of the relation between the Chow group and the Chow variety, (4) the application to a construction of Beilinson-Bloch filtration on the Chow group. <br/><br/>One of the most fundamental problems in mathematics is the solving of algebraic equations. Once people it was realized that one could not always explicitly write down the solutions of equations, the paradigm changed into the mode of examining different types of questions such as: does a solution exist, if so, how many solutions are there, do the solution sets have additional structure? These are the fundamental questions in algebraic geometry. In order to answer them, mathematicians have developed varied techniques, one of which-intersection theory--studies he intersection of solution sets of two or more systems of equations. In this project, the investigator plans to develop a new method in intersection theory. The significance of this project is to investigate material that is less studied or completely untouched by the current techniques of intersection theory.",
+        "similar": [
+            37617,
+            49735,
+            55858
+        ],
+        "weight": [
+            0.07205935567617416,
+            0.07755415886640549,
+            0.8503864407539368
+        ],
+        "person": 5857
+    },
+    "0070522": {
+        "id": "0070522",
+        "title": "Bad Reduction of Curves and Abelian Varieties",
+        "abstract": "One of the main problem in arithmetic geometry is the determination of the set <br/>of rational solutions of a system of polynomial equations with rational <br/>coefficients. One of the most successful technique in the study of such a set <br/>of solutions is to reduce the equations modulo a prime p and to study first the <br/>set of solutions of the latter system of equations. It turns out that in many <br/>situations, it is possible to describe a canonical way of reducing the <br/>equations modulo p. For instance, the canonical reduction of an abelian <br/>variety is called its Neron model, and is the object of study in Lorenzini's <br/>first research project. The canonical reduction of a curve is called its <br/>regular minimal model, and is the object of study in Lorenzini's second <br/>research project. For all but finitely many prime p, the canonical reduction <br/>is `good' and, as the name suggests, such a reduction type  can be better <br/>understood than the reduction at the finitely many remaining primes. Our <br/>present understanding of the information encoded in the canonical reductions <br/>that are not good (and not semistable) is far from complete. Some very <br/>difficult problems arise when studying reductions modulo small primes. One <br/>such difficulty can be stated as follows. A famous theorem due to Grothendieck <br/>and others states that there exists a finite field extension L/K such that <br/>the reduction of the initial equations viewed as equations over L is either <br/>good or semistable. In other words, it is possible to improve the reduction <br/>by extending the initial field. When p is large, the extension L/K is totally<br/>understood once its degree is known: it is the unique cyclic extension of that<br/>degree. When p is small and divides the degree of L/K, there are infinitely <br/>many extensions of that given degree, and almost nothing is known about the <br/>specific extension L/K needed to improve the reduction of the initial <br/>equations. Lorenzini's proposed research will shed more light on this <br/>and other special phenomena that arise when the reduction modulo a small <br/>prime p is not `good'.<br/><br/>For centuries, human beings have been fascinated with solving diophantine <br/>equations, named after the Greek mathematician Diophantus who lived in <br/>the third century AD. The field of diophantine equations has taken on<br/>added significance in the modern world as it finds applications in a<br/>variety of areas including, for example, encryption. A diophantine equation <br/>is a mathematical expression in several variables, say x and y.  The central <br/>problem in the field is to find all possible solutions where x and y <br/>are both whole numbers or both fractions. For instance, the equation xy-10=0 <br/>has many solutions (e.g., x = y = square root of 10) but the solutions in <br/>whole positive numbers are in this case the divisors of 10, namely <br/>(x,y) = (1,10), (2,5), (5,2), and (10,1). While such an  equation is very <br/>simple, a slight modification, such as replacing 10 by a very large number <br/>(for instance, one having 150 digits) renders the new equation extremely hard <br/>to solve in practice. It is this fact, that it is so hard to solve such <br/>equations, that is the key to many of the safest current military codes and <br/>data encryption systems. The complexity of the determination of all solutions <br/>in whole numbers or fractions of an equation increases with the power at which<br/>the variables appear in the equation. For instance, the equation `x to the <br/>power n plus y to the power n equals 1' was conjectured in the 17th century <br/>to have only two solutions when n is any odd number greater than 1. <br/>(Those two solutions are (x,y)=(1,0) and (x,y)= (0,1). This  conjecture <br/>is called Fermat's Last Theorem and was proved only in 1994. Since the time <br/>of the Greeks, mathematicians have developed sophisticated tools to aid in <br/>solving equations. This investigator has developed some such mathematical <br/>tools and is currently working on further contributions to this field.",
+        "similar": [
+            40161,
+            43951,
+            55858
+        ],
+        "weight": [
+            0.2782760262489319,
+            0.2883739471435547,
+            0.43334999680519104
+        ],
+        "person": 14913
+    },
+    "0070650": {
+        "id": "0070650",
+        "title": "Affine Quantum Gravity",
+        "abstract": "Quantization of the gravitational field remains an outstanding<br/>problem in theoretical physics. Recent developments in identifying an<br/>appropriate set of basic variables and in handling the technical<br/>problems known as first- and second-class constraints allow new methods<br/>to be used to attack this problem. These new tools will be further<br/>developed, and their application to study quantum gravity will be<br/>continued.<br/><br/>All the basic forces of nature known at present have been successfully<br/>reconciled with quantum theory, except for the gravitational force. A<br/>successful union of gravity and quantum theory, would complete our<br/>picture regarding the fundamental properties of nature.",
+        "similar": [
+            53751,
+            37749,
+            10780
+        ],
+        "weight": [
+            0.26676180958747864,
+            0.3648037910461426,
+            0.3684343695640564
+        ],
+        "person": 29461
+    },
+    "0070765": {
+        "id": "0070765",
+        "title": "Hydrodynamic Stability in viscous, compressible flow",
+        "abstract": "ABSTRACT<br/><br/>The principal investigator proposes several projects concerning <br/>multi-dimensional stability of flows in compressible, viscous, <br/>and reacting media.  These include both shear flows of classical <br/>hydrodynamic stability and compressive flows of shock wave and <br/>combustion theory,  the former exhibiting local symmetry parallel <br/>to and the latter normal to the flow.  The unifying mathematical <br/>theme in these problems is the appearance of multiple length scales <br/>corresponding to small-scale transport and large-scale convective <br/>effects,  with associated ``stiffness'' in the linearized perturbation <br/>problem.  This leads to interesting, nonstandard issues in spectral <br/>and semigroup theory.  At the same time, the inclusion of small-scale <br/>transport effects is highly desirable from the point of view of physical <br/>applications, which often occur at scales where these effects might be <br/>expected to be significant.<br/><br/>The stability of regular flow patterns is an old and central topic in fluid, <br/>gas, and plasma dynamics, deciding which (stable) patterns will typically<br/>be observed, and which (unstable) are only mathematical and not physically<br/>observable solutions.  The transition from stability to instability<br/>is of particular importance, since it usually signals the arisal of<br/>alternative, more complicated flow patterns close to the original<br/>(now unstable) one- this is a way to understand complicated flows<br/>by the study of simpler and better-understood ones.  Despite a large<br/>and well-known body of theory on this subject, dating back to the late <br/>1800's, there are still many aspects that are poorly understood, particularly<br/>for compressive, viscous, or reacting flows.  Here, we propose to study<br/>several of these issues arising in compressible gas and plasma dynamics,<br/>and in combustion, applications in which such usually-neglected effects<br/>are of considerable practical importance.  Our goal is, by including<br/>these mathematically problematic terms, to move existing theory from<br/>the qualitative to the quantitative regime, obtaining new information<br/>of use to practitioners at the same time that we advance the mathematical<br/>theory.<br/>",
+        "similar": [
+            29345,
+            603,
+            55992
+        ],
+        "weight": [
+            0.17213574051856995,
+            0.286283016204834,
+            0.5415812134742737
+        ],
+        "person": 33596
+    },
+    "0070921": {
+        "id": "0070921",
+        "title": "D-modules on Noncommutative Spaces. Noncommutative Local Algebra and Representations. Noncommutative Smooth Spaces",
+        "abstract": "The  project  is   devoted  to  the  following  topics  of noncommutative  geometry:  a)  Theory  of D-modules  and  differential operators  on noncommutative  locally affine  spaces and  schemes.  b) Noncommutative  local algebra and  its applications  to representation theory  of  quantum  enveloping   algebras  and  related  algebras  of mathematical physics.  c)  Noncommutative smooth locally affine spaces and  related  structures.   Main  purposes of  the  project:  Studying D-modules  on noncommutative  spaces,  in particular  on quantum  flag varieties and noncommutative smooth spaces.  Developing an analogue of the  crystallin approach to  D-modules in  the case  of noncommutative spaces  and  schemes.   Combining   methods  of  D-module  theory  and noncommutative local  algebra, study the  spectrum and representations of  quantum  enveloping  algebras  and  other  important  algebras  of mathematical physics.   Studying properties and  important examples of noncommutative smooth  spaces and their  applications.  Results should have  impacts  on  noncommutative  geometry,  noncommutative  algebra,<br/>representation  theory, deformation  theory and  some other  topics of<br/>mathematical physics.<br/><br/>Noncommutative geometry is a relatively new field of mathematics which is now becoming one of important tools, or ruther ways of thinking, in many areas of  mathematics and theoretical physics. It  takes roots in quantum mechanics and representation  theory. But the main motivations come from recent amazing developments in mathematical physics (quantum groups  and  related quantized  'spaces')  and  from  physics. In the recently proposed M-theory (which  is nowadays regarded as a candidate for the  theory describing all  interactions existing in  the Nature), the geometry of physical  space-time is noncommutative. A considerable part  of the  project, the  one concerned  with  smooth noncommutative spaces (which the investigator  studies together with M.  Kontsevich), is naturally related to  M-theory on curved spaces.  The inverstigator and  his collegues  expect  that  the language  and  new intuition  of noncommutative spaces will be used not only in 'pure' mathematics, but also in modern physical theories.",
+        "similar": [
+            43208,
+            55992,
+            55858
+        ],
+        "weight": [
+            0.30066320300102234,
+            0.3664517104625702,
+            0.33288511633872986
+        ],
+        "person": 1489
+    },
+    "0071126": {
+        "id": "0071126",
+        "title": "Digital Government:  Information Technology Accomodation Research: Open a Door to Universal Access",
+        "abstract": "EIA-0071126<br/>Nass, Clifford<br/>Stanford University<br/><br/>Digital Government:  Information Technology Accommodation Research:  Open a Door to Universal Access<br/><br/>This proposal describes a collaborative research project involving:  Stanford University, Social Security Administration, Census Bureau, and General Services Administration (GSA).  The goal of this research is to enable the partner agencies to better accommodate blind and visually impaired computer users, and to permit development of newer, smaller accessor systems for use with the Total Access System, a technology under development at Stanford. The long-term goal of this project is to create enabling technology that supports disabled members of the workforce at the Census Bureau and other Federal agencies and to transfer these technologies to the private sector.<br/><br/>The research will be conducted over a three-year period.  Year one will focus on the research to select and evaluate appropriate technologies and develop a prototype access system for the blind and to document its usability. During year two, the prototype will be improved based on usability test results and the Total Access System technology will be upgraded.  Key technologies necessary for development (multi-modal input and miniaturization) will be developed and prototyped.  The third year will bring these technologies together in a kiosk prototype.<br/>",
+        "similar": [
+            48629,
+            65691,
+            55992
+        ],
+        "weight": [
+            0.10573432594537735,
+            0.21369679272174835,
+            0.6805689334869385
+        ],
+        "person": 10364
+    },
+    "0071383": {
+        "id": "0071383",
+        "title": "Periodic ARMA Modeling",
+        "abstract": "Robert B. Lund<br/>Periodic ARMA Modeling, DMS 0071383<br/><br/>Abstract<br/><br/>Periodicities naturally arise in data involving tides, climatology,<br/>ecology, sociology, astronomy, economics, hydrology, etc..  This research<br/>studies general periodic time series modeling methods along with some<br/>applications to climatological problems.  The specific questions examined<br/>here include efficient computation of the autocovariance structure of<br/>periodic time series models, parsimonious periodic time series model<br/>development, changepoint and homogeneity methods, and trend properties in<br/>monthly average and extreme temperatures.  The mathematical and<br/>statistical methods center on periodic autoregressive moving average<br/>models (PARMA) time series models - the fundamental modeling vehicle for<br/>periodic series.  An efficient algorithm to compute the autocovariance<br/>structure of a PARMA model will be explored.  Changepoint and homogeneity<br/>methods for periodic series, an issue that arises when weather recording<br/>stations move, will also be investigated. <br/><br/>The developed mathematical and statistical results are used to settle<br/>some climatological problems.  A study of the trends in monthly<br/>temperature means and extremes from United States stations will be<br/>conducted.  This detailed study will enhance our understanding of<br/>climate change and global warming.  The changepoint aspect is perhaps<br/>the data's most important feature.  Periodicities in the autocovariances<br/>in the data need to be parsimoniously modeled to compute accurate<br/>standard errors.  Standard errors are needed to gauge the reliability of<br/>the computed trends.  The methods also yield improved forecasts of<br/>periodic series as a byproduct.<br/><br/><br/><br/><br/>",
+        "similar": [
+            55992,
+            39601,
+            39578
+        ],
+        "weight": [
+            0.2534043490886688,
+            0.3732978105545044,
+            0.3732978105545044
+        ],
+        "person": 49776
+    },
+    "0071692": {
+        "id": "0071692",
+        "title": "Mathematical Studies in Quantum Mechanics",
+        "abstract": "This project concentrates primarily on the investigation of<br/>mathematical problems that arise in the study of molecular quantum<br/>mechanics. The nuclei in a molecule have large masses. Consequently, their<br/>motion is approximately described by classical mechanics. By comparison,<br/>electron masses are very small, and electrons adjust their quantum<br/>mechanical states rapidly in response to the much slower motion of the<br/>nuclei. This intuition is the basis for Born-Oppenheimer approximations.<br/>Professor Hagedorn, his graduate students, and his collaborators will<br/>study situations where Born-Oppenheimer approximations are not<br/>sufficiently accurate to describe all the phenomena of interest. For<br/>example, they plan to develop accurate \"surface hopping models\" to include<br/>the possibility of electrons making quantum mechanical transitions. Models<br/>of this type have been proposed in the chemistry and physics literature,<br/>but they have not been derived from first principles. The main goal of<br/>this project is rigorously to derive and implement such a model.<br/><br/>Motion of electrons and nuclei in molecules are well described by<br/>solutions to the Schrodinger equation. No one has ever solved the<br/>Schrodinger equation for a molecule, and our theoretical knowledge of<br/>chemistry and molecular physics has come from approximations to solutions.<br/>The principal goals of this project are to study the several commonly used<br/>approximations and to develop improved approximations that will be useful<br/>to chemists and physicists. In addition to theoretical understanding,<br/>potential uses of this basic research are the synthesis of new chemical<br/>compounds, the design of new catalysts, or the design of new drugs.<br/>",
+        "similar": [
+            4167,
+            51284,
+            55992
+        ],
+        "weight": [
+            0.07488758862018585,
+            0.1364944875240326,
+            0.7886179685592651
+        ],
+        "person": 19448
+    },
+    "0071882": {
+        "id": "0071882",
+        "title": "U.S.-Chile Cooperative Research:  Onset of Superconductivity in Large Magnetic Fields",
+        "abstract": "This US-Argentina proposal requests support for Dr. Peter Sternberg of Indiana University on Bloomington to collaborate with Drs. Manuel Del Pino and Patricio Felmer at the University of Chile in Santiago on the onset of superconductivity in large magnetic fields.<br/><br/>This project is a continuation of an investigation of the nucleation of superconductivity in the presence of large applied magnetic fields.  The Principal Investigators will use the Ginzburg-Landau energy as a model to focus on their goal of describing the behavior of the (non-zero) order parameter whose emergence signals the loss of stability of the so-called \"normal state\" once the temperature decreases beyond a critical value.  They seek precise information about the critical temperature/magnetic field curve in order to provide a theory to support the many experimental efforts underway in recent years to capture this relationship.  The project will describe states possessing vortex lattice structure (unbounded samples) and states localized about high-curvature sections of the sample boundary (bounded samples).<br/>",
+        "similar": [
+            52807,
+            66638,
+            33324
+        ],
+        "weight": [
+            0.12871421873569489,
+            0.16427919268608093,
+            0.7070066332817078
+        ],
+        "person": 46300
+    },
+    "0072119": {
+        "id": "0072119",
+        "title": "Memory-Efficient Implementation of Sparse Linear Solvers",
+        "abstract": "Solving many important problems in science and engineering depends on efficiently solving sparse linear systems, that is, sets of equations with many zero entries in the coefficients. This project will study techniques for creating sparse linear solvers that make efficient use of the memory hierarcy on single processor computers. It will concentrate on methods that reformulate the original system as a blocked system, with careful choices of the blocks to speed up convergence. Performance programming techniques will reduce the costs of the extra matrix-vector operations needed by the blocked version.<br/><br/>There are three technical goals of this work. The first is to contribute to the understanding of the numerical behavior of memory-efficient sparse linear solvers through analysis and experiment. The second is to identify at least one robust, memory-efficient sparse linear solver for inclusion in the Portable Extensible Toolkit for Scientific Computation (PETSc) library. The final goal is to develop a memory-centric performance metric for evaluating the memory traffic requirements of linear algebra algorithms.<br/>",
+        "similar": [
+            33324,
+            66535,
+            58428
+        ],
+        "weight": [
+            0.21398602426052094,
+            0.3445044457912445,
+            0.44150954484939575
+        ],
+        "person": 16614
+    },
+    "0072181": {
+        "id": "0072181",
+        "title": "Function Theory and Topology of Complete Manifolds",
+        "abstract": "DMS-0072181<br/>Jiaping Wang<br/><br/>In this project, the principal investigator proposes to <br/>study the interactions between the symmetries of a complete <br/>manifold and the behaviors of various analytical objects <br/>on it. More specifically, he proposes to link the structure <br/>and the size of the covering group with the polynomial <br/>growth harmonic functions and the spectral data on the <br/>covering space.  The main objectives of this project include <br/>deriving topological information about a (noncompact) <br/>manifold via analytical approaches and furthering the <br/>understanding of how the symmetries of the space affect <br/>the behavior of solutions to various geometric differential <br/>equations, which is one of the main themes of the geometric <br/>analysis. <br/><br/>This project is intended to study how the behavior of <br/>the solutions to differential equations is related to the <br/>global structure and shape of the underlying space with <br/>partial symmetries. It is expected to both enhance our <br/>understanding of the geometric-analytic structure and have<br/>direct implications to various fields including possible <br/>applications in industry. <br/>",
+        "similar": [
+            58428,
+            33324,
+            66535
+        ],
+        "weight": [
+            0.30025947093963623,
+            0.3301783502101898,
+            0.36956220865249634
+        ],
+        "person": 27401
+    }
+}
