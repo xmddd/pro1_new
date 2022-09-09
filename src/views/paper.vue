@@ -53,7 +53,9 @@
                     </div>
                   </div>
                   <div id="cy"></div>
-                  <div class="legend"></div>
+                  <div class="legend">
+                    <img src="../assets/legend1.jpg" style="height: 100%" />
+                  </div>
                 </div>
               </el-card>
             </div>
@@ -61,7 +63,7 @@
           <el-col :span="8">
             <div class="action-box">
               <el-card v-loading="loading">
-                <el-row style="margin-bottom: 20px">
+                <el-row>
                   <el-col :span="18">
                     <el-select
                       v-model="dataset"
@@ -85,7 +87,7 @@
                   </el-col>
                 </el-row>
 
-                <el-row>
+                <!-- <el-row>
                   <el-col :span="18">
                     <el-select
                       v-model="country"
@@ -107,7 +109,27 @@
                       筛选
                     </el-button>
                   </el-col>
-                </el-row>
+                </el-row> -->
+              </el-card>
+            </div>
+            <div style="margin-top: 20px">
+              <el-card>
+                <el-steps
+                  :space="300"
+                  :active="active"
+                  align-center
+                  finish-status="success"
+                >
+                  <el-step title="步骤 1" description="选择数据集"></el-step>
+                  <el-step
+                    title="步骤 2"
+                    description="鼠标移动到节点上可以查看详细信息"
+                  ></el-step>
+                  <el-step
+                    title="步骤 3"
+                    description="点击国家节点开始挖掘瓶颈技术"
+                  ></el-step>
+                </el-steps>
               </el-card>
             </div>
           </el-col>
@@ -120,10 +142,12 @@
 <script>
 import cytoscape from "cytoscape";
 import popper from "cytoscape-popper";
+import euler from "cytoscape-euler";
 // import tippy, {sticky} from 'tippy.js';
 import axios from "axios";
 
 cytoscape.use(popper);
+cytoscape.use(euler);
 
 export default {
   name: "project-feasibility",
@@ -175,19 +199,31 @@ export default {
       this.tipContainerX =
         e.target.renderedPosition().x - e.target.width() / 2 - 60 + "px";
       this.tipContainerY =
-        e.target.renderedPosition().y + e.target.height() - 5 + "px";
+        e.target.renderedPosition().y + e.target.height() + 15 + "px";
     },
     addMouseOverOutEvent() {
       this.cy.on("mouseover", "node", (e) => {
+        this.active = 2;
         this.showTips = true;
         this.currentHoverData = e.target.data();
         this.$nextTick(() => {
           this.moveTipsContainer(e);
         });
       });
-      this.cy.on("mouseout", "node", (e) => {
+      this.cy.on("mouseout", "node", () => {
         this.showTips = false;
-        console.log(e);
+        // console.log(e.target.height(), e.target.width());
+      });
+    },
+    addMouseClickEvent() {
+      this.cy.on("click", "node[group='country']", (e) => {
+        this.active = 3;
+        this.showTips = false;
+        this.loading = true;
+        let node = e.target;
+        console.log(node.data().id);
+        this.filter(node.data().id);
+        this.loading = false;
       });
     },
     ChooseDataset() {
@@ -200,6 +236,7 @@ export default {
           this.data = this.raw_data;
           console.log(this.raw_data);
           this.loading = false;
+          this.active = 1;
           this.Init();
           // this.cy.unmount();
           this.createCytoscape();
@@ -306,7 +343,36 @@ export default {
         }
       }
     },
-    add_country_nodes() {},
+    add_country_nodes() {
+      for (var id in this.data.country_name) {
+        this.nodes.push({
+          data: {
+            id: id,
+            group: "country",
+            name: this.data.country_name[id],
+          },
+          style: {
+            "background-color": "blue",
+          },
+        });
+      }
+    },
+    add_paper_country_nodes() {
+      for (var id in this.data.paper_country) {
+        var country_list = this.data.paper_country[id];
+        // console.log(id, refered_concept_list)
+        for (var country_id of country_list) {
+          // console.log(id, refered_id);
+          this.edges.push({
+            data: {
+              source: id,
+              target: country_id,
+              group: "paper-country",
+            },
+          });
+        }
+      }
+    },
     createCytoscape() {
       this.nodes = [];
       this.edges = [];
@@ -315,6 +381,7 @@ export default {
       this.add_concept_nodes();
       this.add_paper_concept_edges();
       this.add_country_nodes();
+      this.add_paper_country_nodes();
       cytoscape.warnings(false);
       this.cy = cytoscape({
         container: document.getElementById("cy"),
@@ -325,7 +392,19 @@ export default {
         // autounselectify: false,
         autoungrabify: false,
         layout: {
-          name: "circle",
+          name: "cose",
+          animate: false,
+          fit: true,
+          padding: 5,
+          nodeOverlap: 30,
+          // randomize: true,
+          idealEdgeLength: function (edge) {
+            if (edge.data().group == "paper-paper") {
+              return 60;
+            } else {
+              return 100;
+            }
+          },
         },
         minZoom: 0.3,
         style: [
@@ -334,8 +413,8 @@ export default {
             style: {
               // content: "data(id)",
               "text-opacity": 0.5,
-              height: 40,
-              width: 40,
+              height: 20,
+              width: 20,
               "pie-size": "100%",
               "text-valign": "center",
               "text-halign": "left",
@@ -347,9 +426,8 @@ export default {
           {
             selector: "edge",
             style: {
-              width: 3,
+              width: 2,
               label: "data(label)",
-              "target-arrow-shape": "triangle",
               // "target-arrow-fill": "hollow", //箭头填充 空心
               // "line-color": "#9dbaea",
               // "target-arrow-color": "#9dbaea",
@@ -359,6 +437,7 @@ export default {
           {
             selector: 'edge[group="paper-paper"]',
             style: {
+              "target-arrow-shape": "triangle",
               "line-color": "#111111",
               "target-arrow-color": "#111111",
             },
@@ -370,6 +449,13 @@ export default {
               "target-arrow-color": "red",
             },
           },
+          {
+            selector: 'edge[group="paper-country"]',
+            style: {
+              "line-color": "blue",
+              "target-arrow-color": "blue",
+            },
+          },
         ],
         elements: {
           nodes: this.nodes,
@@ -379,11 +465,12 @@ export default {
       });
 
       this.addMouseOverOutEvent();
+      this.addMouseClickEvent();
     },
-    filter() {
+    filter(country) {
       this.cy.destroy();
       this.createCytoscape();
-      if (this.country == "") return;
+      if (country == "") return;
       // this.data = {};
       var paper_list = [];
       for (var id in this.raw_data.paper_name) {
@@ -392,35 +479,38 @@ export default {
         // console.log(this.raw_data.paper_country[id]);
         if (
           this.raw_data.paper_country[id] == undefined ||
-          this.raw_data.paper_country[id].indexOf(this.country) == -1
+          this.raw_data.paper_country[id].indexOf(country) == -1
         ) {
           paper_list.push(id);
           this.cy.$id(id).remove();
         }
       }
+      for (id in this.raw_data.country_name) {
+        if (country != id) this.cy.$id(id).remove();
+      }
       console.log(paper_list);
       var layout = this.cy.layout({ name: "circle" });
       // this.cy.resize();
       layout.run();
-      this.ChangeConceptColor();
+      this.ChangeConceptColor(country);
     },
-    ChangeConceptColor() {
-      console.log(this.country, this.data.country_concept_score[this.country]);
+    ChangeConceptColor(country) {
+      console.log(country, this.data.country_concept_score[country]);
 
       var max = 0,
         min = 100;
-      for (var concept in this.data.country_concept_score[this.country]) {
-        var score = this.data.country_concept_score[this.country][concept];
+      for (var concept in this.data.country_concept_score[country]) {
+        var score = this.data.country_concept_score[country][concept];
         max = max > score ? max : score;
         min = min < score ? min : score;
       }
-      console.log(min, max);
-      for (concept in this.data.country_concept_score[this.country]) {
-        score = this.data.country_concept_score[this.country][concept];
+      // console.log(min, max);
+      for (concept in this.data.country_concept_score[country]) {
+        score = this.data.country_concept_score[country][concept];
 
         var num = 255 - this.map(score, min, max, 100, 255);
         var color = `rgb(255,${num},${num})`;
-        console.log(this.country, concept, color);
+        // console.log(country, concept, color);
         this.cy.$id(concept).style({
           "background-color": color,
         });
@@ -435,7 +525,7 @@ export default {
 
 <style scoped lang="scss">
 .box-card {
-  min-height: 500px;
+  // min-height: 600px;
   background-color: #fcfcfc;
 
   .contain {
@@ -471,19 +561,19 @@ export default {
 
 #box {
   width: 100%;
-  height: 310px;
+  height: 570px;
 }
 
 #cy {
   width: 100%;
-  height: 85%;
+  height: 500px;
 }
 
 .legend {
   width: 183px;
-  height: 63px;
-  margin-left: 65%;
-  margin-bottom: 10px;
+  height: 70px;
+  margin-left: 40%;
+  margin-top: 10px;
 }
 
 #tipsWrapper {

@@ -11,6 +11,8 @@
     "axios": "^0.27.2",
     "core-js": "^3.8.3",
     "cytoscape": "^3.22.1",
+    "cytoscape-cola": "^2.5.1",
+    "cytoscape-euler": "^1.2.2",
     "cytoscape-popper": "^2.0.0",
     "cytoscape-qtip": "^2.8.0",
     "element-plus": "^2.2.12",
