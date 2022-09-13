@@ -31,7 +31,7 @@ const routes = [
   {
     path: '/paper',
     name: 'paper',
-    component: () => import('../views/paper.vue')
+    component: () => import('../views/paper-test.vue')
   },
   {
     path: '/kg/project-feasibility',
